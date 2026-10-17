@@ -1,5 +1,5 @@
 # 💫 About Me:
-##👋 Hi there! I'm Ayamini Dinethya!<br><br>💻 I'm an enthusiastic IT undergraduate with a passion for **Software Development, Web Technologies, and Problem-Solving**.<br><br>🚀 I enjoy learning new technologies, building creative projects, and improving my programming skills.<br><br>🌱 Always learning, exploring, and growing as a future software engineer.<br><br>✨ **Let's connect, collaborate, and create something amazing!**
+👋 Hi there! I'm Ayamini Dinethya!<br><br>💻 I'm an enthusiastic IT undergraduate with a passion for **Software Development, Web Technologies, and Problem-Solving**.<br><br>🚀 I enjoy learning new technologies, building creative projects, and improving my programming skills.<br><br>🌱 Always learning, exploring, and growing as a future software engineer.<br><br>✨ **Let's connect, collaborate, and create something amazing!**
 
 
 # 💻 Tech Stack:
